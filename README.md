@@ -5,7 +5,7 @@ This Python program allows the user to play a simple alphabet guessing game. The
 1. Run the program in a Python environment.
 2. The program will prompt you to guess a random English alphabet.
 3. Enter your guess in lowercase when prompted.
-4. You will be informed if your guess is smaller or larger than the random alphabet.
+4. You will be informed if your guess is comes before or after the random alphabet.
 5. You have a total of 8 chances to guess the correct alphabet.
 6. If you guess the alphabet correctly, you win! Otherwise, the correct alphabet will be revealed.
 7. After each game, you can choose to play again or exit the program.
